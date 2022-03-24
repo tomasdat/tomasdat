@@ -57,6 +57,6 @@ Here are some ideas to get you started:
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-violet?logo=Adobe+Premiere+Pro&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe_Lightroom-lightblue?logo=Adobe+Lightroom&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomasdat)](https://github.com/tomasdat/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomasdat)](https://github.com/tomasdat/github-readme-stats) -->
 
 ![](https://komarev.com/ghpvc/?username=tomasdat&color=red)
