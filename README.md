@@ -29,8 +29,9 @@ Here are some ideas to get you started:
 ### Technical Skills
 
 ![C#](https://img.shields.io/badge/C%23-purple?logo=C%23&logoColor=black)
-![MVC](https://img.shields.io/badge/-Mvc-3776AB?style=flat&logo=Mvc&logoColor=yellow)
+![MVC](https://img.shields.io/badge/-MVC-3776AB?style=flat&logo=Mvc&logoColor=yellow)
 ![Microsoft VisualStudio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=Visual%20Studio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-orange?logo=Postman&logoColor=white)
 
 ![MSSQL](https://img.shields.io/badge/-MicrosoftSQLServer-CC2927?style=flat&logo=Microsoft%20SQL%20Server&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
@@ -43,6 +44,8 @@ Here are some ideas to get you started:
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-blue?logo=Adobe+Photoshop&logoColor=black)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-orange?logo=Adobe+Illustrator&logoColor=black)
 ![Adobe Indesign](https://img.shields.io/badge/Adobe_Indesign-purple?logo=Adobe+Indesign&logoColor=black)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-violet?logo=Adobe+Premiere+Pro&logoColor=black)
+![Adobe Lightroom](https://img.shields.io/badge/Adobe_Lightroom-?logo=Adobe+Lightroom&logoColor=black#31A8FF)
 
 ![Microsoft Word](https://img.shields.io/badge/-Microsoft%20Word-164ead?style=flat&logo=microsoft%20word)
 ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-026f39?style=flat&logo=microsoft%20excel)
@@ -50,6 +53,8 @@ Here are some ideas to get you started:
 ![Microsoft Teams](https://img.shields.io/badge/-Microsoft%20Teams-6264A7?style=flat&logo=Microsoft%20Teams&logoColor=white)
 ![Microsoft One Drive](https://img.shields.io/badge/-Microsoft%20OneDrive-0078D4?style=flat&logo=Microsoft%20OneDrive&logoColor=white)
 
+![Microsoft Teams](https://img.shields.io/static/v1?label=&message=Microsoft+Teams&color=%235865F2&logo=Microsoft+Teams&logoColor=white)
+![Discord](https://img.shields.io/static/v1?label=&message=Discord&color=%235865F2&logo=Discord&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-gray?logo=Unity&logoColor=white)
 
 ![](https://komarev.com/ghpvc/?username=tomasdat&color=red)
