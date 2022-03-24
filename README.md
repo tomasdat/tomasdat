@@ -51,10 +51,10 @@ Here are some ideas to get you started:
 ![Microsoft Teams](https://img.shields.io/badge/-Microsoft%20Teams-6264A7?style=flat&logo=Microsoft%20Teams&logoColor=white)
 ![Microsoft One Drive](https://img.shields.io/badge/-Microsoft%20OneDrive-0078D4?style=flat&logo=Microsoft%20OneDrive&logoColor=white)
 
-![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-blue?logo=Adobe+Photoshop&logoColor=black)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-orange?logo=Adobe+Illustrator&logoColor=black)
-![Adobe Indesign](https://img.shields.io/badge/Adobe_Indesign-purple?logo=Adobe+Indesign&logoColor=black)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-violet?logo=Adobe+Premiere+Pro&logoColor=black)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe_Lightroom-lightblue?logo=Adobe+Lightroom&logoColor=black)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-blue?logo=Adobe+Photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-orange?logo=Adobe+Illustrator&logoColor=white)
+![Adobe Indesign](https://img.shields.io/badge/Adobe_Indesign-purple?logo=Adobe+Indesign&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-violet?logo=Adobe+Premiere+Pro&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/Adobe_Lightroom-lightblue?logo=Adobe+Lightroom&logoColor=white)
 
 ![](https://komarev.com/ghpvc/?username=tomasdat&color=red)
