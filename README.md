@@ -47,7 +47,6 @@ Here are some ideas to get you started:
 ![Microsoft Teams](https://img.shields.io/badge/-Microsoft%20Teams-6264A7?style=flat&logo=Microsoft%20Teams&logoColor=white)
 ![Microsoft One Drive](https://img.shields.io/badge/-Microsoft%20OneDrive-0078D4?style=flat&logo=Microsoft%20OneDrive&logoColor=white)
 
-![Microsoft Teams](https://img.shields.io/static/v1?label=&message=Microsoft+Teams&color=%235865F2&logo=Microsoft+Teams&logoColor=white)
 ![Discord](https://img.shields.io/static/v1?label=&message=Discord&color=%235865F2&logo=Discord&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-gray?logo=Unity&logoColor=white)
 ![OBS Studio](https://img.shields.io/badge/OBS_Studio-gray?logo=OBS+Studio&logoColor=white)
