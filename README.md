@@ -41,15 +41,15 @@ Here are some ideas to get you started:
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white)
 ![AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white)
 
+![Discord](https://img.shields.io/static/v1?label=&message=Discord&color=%235865F2&logo=Discord&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-gray?logo=Unity&logoColor=white)
+![OBS Studio](https://img.shields.io/badge/OBS_Studio-gray?logo=OBS+Studio&logoColor=white)
+
 ![Microsoft Word](https://img.shields.io/badge/-Microsoft%20Word-164ead?style=flat&logo=microsoft%20word)
 ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-026f39?style=flat&logo=microsoft%20excel)
 ![Microsoft powerpoint](https://img.shields.io/badge/-Microsoft%20PowerPoint-b9361a?style=flat&logo=microsoft%20powerpoint)
 ![Microsoft Teams](https://img.shields.io/badge/-Microsoft%20Teams-6264A7?style=flat&logo=Microsoft%20Teams&logoColor=white)
 ![Microsoft One Drive](https://img.shields.io/badge/-Microsoft%20OneDrive-0078D4?style=flat&logo=Microsoft%20OneDrive&logoColor=white)
-
-![Discord](https://img.shields.io/static/v1?label=&message=Discord&color=%235865F2&logo=Discord&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-gray?logo=Unity&logoColor=white)
-![OBS Studio](https://img.shields.io/badge/OBS_Studio-gray?logo=OBS+Studio&logoColor=white)
 
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-blue?logo=Adobe+Photoshop&logoColor=black)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-orange?logo=Adobe+Illustrator&logoColor=black)
