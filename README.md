@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **tomasdat/tomasdat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👋 Hi, I’m @tomasdat
+👀 I’m interested in SRE and User Journeys
+🌱 I’m currently learning SRE on my training with Sparta Global
+💞️ I’m looking to collaborate on any interesting projects
