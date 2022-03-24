@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi, I’m @tomasdat
+# 👋 Welcome
+- 🔭 I’m currently working as a Sparta Global Consultant Trainee
+- 🌱 I’m currently learning SRE fundamentals
 - 👀 I’m interested in SRE and User Journeys
-- 🌱 I’m currently learning SRE on my training with Sparta Global
-- 💞️ I’m looking to collaborate on any interesting projects
-
+- 💬 Ask me about anything, happy to help
 
 ### 📫 How to reach me 
 
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-orange?logo=Adobe+Illustrator&logoColor=black)
 ![Adobe Indesign](https://img.shields.io/badge/Adobe_Indesign-purple?logo=Adobe+Indesign&logoColor=black)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-violet?logo=Adobe+Premiere+Pro&logoColor=black)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe_Lightroom-?logo=Adobe+Lightroom&logoColor=black#31A8FF)
+![Adobe Lightroom](https://img.shields.io/badge/Adobe_Lightroom-lightblue?logo=Adobe+Lightroom&logoColor=black)
 
 ![Microsoft Word](https://img.shields.io/badge/-Microsoft%20Word-164ead?style=flat&logo=microsoft%20word)
 ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-026f39?style=flat&logo=microsoft%20excel)
