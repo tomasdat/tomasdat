@@ -19,3 +19,16 @@ Here are some ideas to get you started:
 - 👀 I’m interested in SRE and User Journeys
 - 🌱 I’m currently learning SRE on my training with Sparta Global
 - 💞️ I’m looking to collaborate on any interesting projects
+
+# Technical Skills and Experience
+## Thriving in SRE
+Linux Ubuntu Microsoft Windows 10
+
+AWS Agile Scrum
+
+Git
+MVC Microsoft VisualStudio
+
+MYSQL
+
+Microsoft Word Microsoft Excel Microsoft powerpoint Microsoft Teams Microsoft One Drive
