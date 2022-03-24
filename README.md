@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Welcome
+# 👋 Hi, I'm Dat
 - 🔭 I’m currently working as a Sparta Global Consultant Trainee
-- 🌱 I’m currently learning SRE fundamentals
+- 🌱 I’m currently learning SRE fundamentals, SQL, AWS, Bash, Azure
 - 👀 I’m interested in SRE and User Journeys
 - 💬 Ask me about anything, happy to help
 
