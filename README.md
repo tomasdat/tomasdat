@@ -31,4 +31,4 @@ MVC Microsoft VisualStudio
 
 MYSQL
 
-Microsoft Word Microsoft Excel Microsoft powerpoint Microsoft Teams Microsoft One Drive
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
