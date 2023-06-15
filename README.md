@@ -21,6 +21,11 @@ Here are some ideas to get you started:
 - 👀 I’m interested in developing tools to improve Operations and Engineering.
 - 💬 Ask me about anything, happy to help
 
+### Main Projects
+- Centralized software catalog
+- Automated workflows
+- APIs
+
 ### Technical Skills
 
 ![Agile](https://img.shields.io/badge/-Agile-2496ED?style=flat&logo=Agile&logoColor=white)
