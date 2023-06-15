@@ -34,7 +34,6 @@ Here are some ideas to get you started:
 
 ![Microsoft VisualStudio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=Visual%20Studio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-orange?logo=Postman&logoColor=white)
-
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white)
 ![Microsoft Windows](https://img.shields.io/badge/Microsoft_Windows-blue?logo=Windows&logoColor=white)
