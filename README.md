@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything, happy to help
 
 ### Main Projects
-- Centralized software catalog
+- Programming APIs
+- Centralized software catalogue
 - Automated workflows
-- APIs
 
 ### Technical Skills
 
