@@ -31,13 +31,8 @@ Here are some ideas to get you started:
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-purple?logo=C%23&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
-
 ![Microsoft VisualStudio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=Visual%20Studio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-orange?logo=Postman&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white)
-![Microsoft Windows](https://img.shields.io/badge/Microsoft_Windows-blue?logo=Windows&logoColor=white)
-![Discord](https://img.shields.io/static/v1?label=&message=Discord&color=%235865F2&logo=Discord&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-gray?logo=Unity&logoColor=white)
 ![OBS Studio](https://img.shields.io/badge/OBS_Studio-gray?logo=OBS+Studio&logoColor=white)
 
