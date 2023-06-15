@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as a Site Reliability Engineer
 - 🌱 I’m currently doing a high-value project for a top fashion company.
 - 👀 I’m interested in developing tools to improve Operations and Engineering.
+- 🎮 Avid gamer, game developer and creative.
 - 💬 Ask me about anything, happy to help
 
 ### Main Projects
